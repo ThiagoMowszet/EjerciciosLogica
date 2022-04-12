@@ -14,7 +14,7 @@ como hacerlo:
 """
 
 
-# Decidi hacerlo sin una funcion. Elegi tambien que sea solamente las tablas del 1 al 10. Si se desea lo contrario, eliminar las lineas 23 y 24.
+# Decidi hacerlo sin una funcion, tambien que sea solamente las tablas del 1 al 10. Si se desea lo contrario, eliminar las lineas 23 y 24.
 
 n = int(input("Elija un numero para saber su tabla de multiplicar: ")) # El usuario ingresa un numero.
 
