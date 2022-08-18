@@ -12,7 +12,7 @@ como hacerlo:
 
 const tablaMultiplicar = (a) => { 
     for ( let i = 0 ; i < 11 ; i++ ){
-        console.log(`${a} por ${i} es igual a ${a * i}`)
+        console.log(`${a} x ${i} = ${a * i}`)
     }
 }
 
