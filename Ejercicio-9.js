@@ -12,7 +12,7 @@ const positivoNegativo = (a) => {
 }
 
 
-listaNumeros.forEach( positivoNegativo )
+listaNumeros.forEach(positivoNegativo)
 
 /*
 
