@@ -1,4 +1,8 @@
+/*
 
+Dado el siguiente array, sumar el valor mas alto con el valor mas bajo: [1, 2, 3, 4, 56, 7, 8, 10]
+
+*/
 
 let lista = [1, 2, 3, 4, 56, 7, 8, 10]
 let suma
