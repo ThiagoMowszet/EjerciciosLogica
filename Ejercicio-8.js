@@ -20,7 +20,7 @@ while (contador < 3) {
         console.log("Su contraseña es incorrecta")
         contador++
     }
-} 
+}
 
 if (contador === 3) {
     console.log("Ha superado el numero de intentos, porfavor vuelvalo a intentar mas tarde")
