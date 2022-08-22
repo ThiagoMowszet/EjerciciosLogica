@@ -7,7 +7,7 @@ de error
 */
 
 const intervaloError = (a) => {
-    a > 0  && a >= 60 && a <= 90 ? console.log("Su numero es positivo y se encuentra en el intervalo abierto 60-90") : console.log("Error")
+    a > 0 && a >= 60 && a <= 90 ? console.log("Su numero es positivo y se encuentra en el intervalo abierto 60-90") : console.log("Error")
 }
 
 
